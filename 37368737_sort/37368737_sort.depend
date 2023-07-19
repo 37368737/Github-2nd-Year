@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647501928 source:c:\users\wgkot\onedrive\documents\2nd year modules\reii 211\37368737_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

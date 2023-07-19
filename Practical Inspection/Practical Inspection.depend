@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1648717464 source:c:\users\wgkot\onedrive\documents\2nd year modules\reii 211\practical inspection\prac1.c
+	"prac1.h"
+
+1648718892 c:\users\wgkot\onedrive\documents\2nd year modules\reii 211\practical inspection\prac1.h
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<sys/time.h>
+	<unistd.h>
+
+1650373153 source:c:\users\wgkot\onedrive\documents\2nd year modules\reii 211\practical inspection\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"prac1.h"
+

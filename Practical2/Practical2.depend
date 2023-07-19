@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654173627 source:c:\users\wgkot\onedrive\documents\2nd year modules\reii 211\practical2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

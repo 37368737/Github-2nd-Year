@@ -1,0 +1,28 @@
+Initials,,,
+Surname,,,
+Student number,,,
+,,,
+,,,
+Assessment criteria,Description of criteria,Score (0-4),
+Introduction,What is the purpose of the investigation? Is the essence of the investigation concisely described? ,2,
+Experimental method:  Description,How is the experiment setup? Is the equipment used described sufficiently? Experimental parameters and method of investigation adequately described. Input and output parameters detailed? Flowchart or similar means to efffecgively convey inforamtion included?,2,
+Experimental method: Reproducability,"Based on the descriptions provided, can another researcher or student easily reproduce the result? ",2,
+Experimental method:  Linear regression,Is it clear that the experiment was set up to collect observations with regression in mind. Is it clear how the regression was performed and is the method followed correct?,2,
+Results: Representation of graph,"Comprehensiveness of the results presented in graph(s).  The graph should at least contain the
+practical observations (scatterplots) from the four algorithm’s run-times vs array length and the
+regression lines fitted to these observations. Theoretcial curves on same or seperate graph? Are the titles, headings  and axes limits sensible ?  ",2,
+Results: Representation of table,"Comprehensiveness of the results presented in the table for the experiments? Does the table contain all the required infrormation?  The table should compare the various sorting algorithm’s practical and theoretical curves. For the
+measured results, this will be the regression equations of each respective sorting algorithm, and for the theoretical curves, this will be the worst-case asymptotic bounds.",2,
+Results: Discussion of results,Results graph and table used as a point of departure for a discussion of results. Noteworthy findings communicated.,2,
+Conclusion,"Reflect on what you have learned from the investigation. What are the key messages or highlights that you identified from your investigation? Emphasise noteworthy results/implications from the analysis. What findings were as expected, and what findings were not as suspected.",2,
+"Style and formatting, Grammar and language",Language and grammar that is error-free. Text is easy to read and follow. The document is manicured and looks professional. Figures and tables are appropriately styled.,2,
+,Total,18,/36
+,Final mark (%),50,
+,,,
+,,,
+Score description,Score awarded,,
+Absent/ Wrong,0,,
+Not adequate,1,,
+Acceptable,2,,
+Good,3,,
+Excellent,4,,
